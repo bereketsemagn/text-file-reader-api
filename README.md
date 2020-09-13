@@ -35,7 +35,7 @@ fileReaderAPI is a simple way for you to open any text files, simply. Follow the
 
 Clone this repo to your local machine using `https://github.com/bereketsemagn/text-file-reader-api.git`
 
-## Contributing
+## Usage
 
 > To get started...
 
@@ -49,38 +49,24 @@ Clone this repo to your local machine using `https://github.com/bereketsemagn/te
 
 ### Step 2
 
-- **HACK AWAY, NERDS!** 🔨🔨🔨
+- **USE AWAY, NERDS!** 🔨🔨🔨
 
 ### Step 3
 
-- 🔃 Create a new pull request using <a href="https://github.com/joanaz/HireDot2/compare/" target="_blank">`https://github.com/joanaz/HireDot2/compare/`</a>.
+- 🔃 Create a new pull request using <a href="https://github.com/bereketsemagn/text-file-reader-api/pulls" target="_blank">`https://github.com/bereketsemagn/text-file-reader-api/pulls`</a>.
 
 ---
 
 ## Team
 
-| [![FVCproductions](https://avatars1.githubusercontent.com/u/4284691?v=3&s=200)](http://fvcproductions.com)    | [![FVCproductions](https://avatars1.githubusercontent.com/u/4284691?v=3&s=200)](http://fvcproductions.com) | [![FVCproductions](https://avatars1.githubusercontent.com/u/4284691?v=3&s=200)](http://fvcproductions.com)  |
-| <a href="http://github.com/fvcproductions" target="_blank">`github.com/fvcproductions`</a> | <a href="http://github.com/fvcproductions" target="_blank">`github.com/fvcproductions`</a> | <a href="http://github.com/fvcproductions" target="_blank">`github.com/fvcproductions`</a> |
-
-- You can just grab their GitHub profile image URL
-- You should probably resize their picture using `?s=200` at the end of the image URL.
-
----
-
-## FAQ
-
-- **How do I do *specifically* so and so?**
-    - No problem! Just do this.
-
----
+| [![Bereket Semagn](https://avatars1.githubusercontent.com/u/68391329?s=460&u=edcfc3815dab595e7e3fe70224e427b01988578b&v=4)](http://bereketsemagn.tk)
 
 ## Support
 
 Reach out to me at one of the following places!
 
-- Website at <a href="http://fvcproductions.com" target="_blank">`fvcproductions.com`</a>
-- Twitter at <a href="http://twitter.com/fvcproductions" target="_blank">`@fvcproductions`</a>
-- Insert more social links here.
+- Website at <a href="http://bereketsemagn.tk" target="_blank">`bereketsemagn.tk`</a>
+- Email me at <a href="mailto:bsemagn.dev@gmail.com" target="_blank">`bsemagn.dev@gmail.com`</a>
 
 ---
 
@@ -89,4 +75,4 @@ Reach out to me at one of the following places!
 [![License](http://img.shields.io/:license-mit-blue.svg?style=flat-square)](http://badges.mit-license.org)
 
 - **[MIT license](http://opensource.org/licenses/mit-license.php)**
-- Copyright 2015 © <a href="http://fvcproductions.com" target="_blank">FVCproductions</a>.
+- Copyright 2020 © <a href="http://bereketsemagn.tk" target="_blank">Bereket Semagn</a>.
