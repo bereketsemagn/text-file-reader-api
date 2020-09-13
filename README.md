@@ -17,31 +17,15 @@
   <img alt="GitHub watchers" src="https://img.shields.io/github/watchers/bereketsemagn/text-file-reader-api?style=social">
 
 ## Quick Overview
+<img alt="snapsaver" src="assets/gyazo.gif" width ="100">
 fileReaderAPI is a simple way for you to open any text files, simply. Follow the steps below to get started.
 
-[![https://file-reader-api.netlify.app](https://i.gyazo.com/b70eb065d7a821387e052a51d61ce926.png)]()
-
-- Most people will glance at your `README`, *maybe* star it, and leave
-- Ergo, people should understand instantly what your project is about based on your repo
-
-> Tips
-
-- HAVE WHITE SPACE
-- MAKE IT PRETTY
-- GIFS ARE REALLY COOL
-
-> GIF Tools
-
-- Use <a href="http://recordit.co/" target="_blank">**Recordit**</a> to create quicks screencasts of your desktop and export them as `GIF`s.
-- For terminal sessions, there's <a href="https://github.com/chjj/ttystudio" target="_blank">**ttystudio**</a> which also supports exporting `GIF`s.
-
-![](assets/screen.gif)
+- It's useful for Developers
+- Speeds up time by checking what's inside of your text file
 
 
 
 ## Table of Contents (Optional)
-
-> If your `README` has a lot of info, section headers might be nice.
 
 - [Installation](#installation)
 - [Features](#features)
