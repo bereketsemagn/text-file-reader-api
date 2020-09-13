@@ -21,12 +21,6 @@ input {
     border-radius: 50px;
     margin-top: 100px;
     outline: none;
-    background-color: white;
-}
-
-.inputmain:hover{
-    margin-top: -4px;
-    transition: 10s;
 }
 
 ::-webkit-scrollbar {
