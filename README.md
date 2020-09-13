@@ -1,10 +1,22 @@
 <p align="center"
 
-<a href="http://file-reader-api.netlify.app"><img src="https://icons-for-free.com/iconfiles/png/512/folder+open+icon-1320161390409087972.png" height= "200" width= "200" title="text-file-reader-api" alt="text-file-reader-api"></a>
+<a href="http://file-reader-api.netlify.app"><img src="https://icons-for-free.com/iconfiles/png/512/folder+open+icon-1320161390409087972.png" width ="100" title="text-file-reader-api" alt="text-file-reader-api"></a>
 
 <h1 align="center">
       fileReaderAPI
 </h1>
+
+<h3 align="center">
+    Simple text file opener API.
+</h3>
+
+<p align="center">
+<a href="https://travis-ci.org/ladjs/lad"><img src="https://travis-ci.org/ladjs/lad.svg?branch=master" alt="build status" /></a>
+  <a href="https://codecov.io/github/ladjs/lad"><img src="https://img.shields.io/codecov/c/github/ladjs/lad/master.svg" alt="code coverage" /></a>
+  <a href="https://github.com/sindresorhus/xo"><img src="https://img.shields.io/badge/code_style-XO-5ed9c7.svg" alt="code style" /></a>
+  <a href="https://github.com/prettier/prettier"><img src="https://img.shields.io/badge/styled_with-prettier-ff69b4.svg" alt="styled with prettier" /></a>
+  <a href="https://lass.js.org"><img src="https://img.shields.io/badge/made_with-lass-95CC28.svg" alt="made with lass" /></a>
+  <a href="LICENSE"><img src="https://img.shields.io/github/license/ladjs/lad.svg" alt="license" /></a>
 
 > Subtitle or Short Description Goes Here
 
