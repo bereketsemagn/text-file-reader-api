@@ -59,7 +59,7 @@ Clone this repo to your local machine using `https://github.com/bereketsemagn/te
 
 ## Team
 
-| [![Bereket Semagn](https://avatars1.githubusercontent.com/u/68391329?s=460&u=edcfc3815dab595e7e3fe70224e427b01988578b&v=4)](http://bereketsemagn.tk)
+<a href="bereketsemagn.tk"><img src="https://avatars1.githubusercontent.com/u/68391329?s=460&u=edcfc3815dab595e7e3fe70224e427b01988578b&v=4" width ="300" height= "300"> </a>
 
 ## Support
 
