@@ -37,7 +37,7 @@ fileReaderAPI is a simple way for you to open any text files, simply. Follow the
 
 **Recordit**
 
-![Recordit GIF](http://g.recordit.co/iLN6A0vSD8.gif)
+![Recordit GIF](https://i.gyazo.com/2d5ea58eb348be8285ca7ec0d92732a5.mp4)
 
 **ttystudio**
 
