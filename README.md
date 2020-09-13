@@ -19,9 +19,7 @@
 ## Quick Overview
 fileReaderAPI is a simple way for you to open any text files, simply. Follow the steps below to get started.
 
-***INSERT ANOTHER GRAPHIC HERE***
-
-[![INSERT YOUR GRAPHIC HERE](http://i.imgur.com/dt8AUb6.png)]()
+[![INSERT YOUR GRAPHIC HERE](https://i.gyazo.com/b70eb065d7a821387e052a51d61ce926.png)]()
 
 - Most people will glance at your `README`, *maybe* star it, and leave
 - Ergo, people should understand instantly what your project is about based on your repo
