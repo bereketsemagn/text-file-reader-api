@@ -21,7 +21,3 @@ input {
     outline: none;
     border-radius: 50px;
 }
-
-  ::-webkit-scrollbar-thumb {
-    background: #888; 
-}
