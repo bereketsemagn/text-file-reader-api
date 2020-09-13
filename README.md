@@ -35,15 +35,9 @@ fileReaderAPI is a simple way for you to open any text files, simply. Follow the
 - Use <a href="http://recordit.co/" target="_blank">**Recordit**</a> to create quicks screencasts of your desktop and export them as `GIF`s.
 - For terminal sessions, there's <a href="https://github.com/chjj/ttystudio" target="_blank">**ttystudio**</a> which also supports exporting `GIF`s.
 
-**Recordit**
+![](assets/screen.gif)
 
-![Recordit GIF](https://i.gyazo.com/2d5ea58eb348be8285ca7ec0d92732a5.mp4)
 
-**ttystudio**
-
-![ttystudio GIF](https://raw.githubusercontent.com/chjj/ttystudio/master/img/example.gif)
-
----
 
 ## Table of Contents (Optional)
 
