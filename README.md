@@ -2,7 +2,9 @@
 
 <a href="http://file-reader-api.netlify.app"><img src="https://icons-for-free.com/iconfiles/png/512/folder+open+icon-1320161390409087972.png" height= "200" width= "200" title="text-file-reader-api" alt="text-file-reader-api"></a>
 
-# fileReaderAPI
+<h1 align="center">
+      fileReaderAPI
+</h1>
 
 > Subtitle or Short Description Goes Here
 
