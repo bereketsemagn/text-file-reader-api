@@ -11,6 +11,7 @@
 </h3>
 
 <p align="center">
+      <a href="https://ned.im/github-buttons/ghbtn.html?user=bereketsemagn&repo=text-file-reader-api&type=watch&count=true" /></a>
 <a href="https://travis-ci.org/ladjs/lad"><img src="https://travis-ci.org/ladjs/lad.svg?branch=master" alt="build status" /></a>
   <a href="https://codecov.io/github/ladjs/lad"><img src="https://img.shields.io/codecov/c/github/ladjs/lad/master.svg" alt="code coverage" /></a>
   <a href="https://github.com/sindresorhus/xo"><img src="https://img.shields.io/badge/code_style-XO-5ed9c7.svg" alt="code style" /></a>
