@@ -17,11 +17,13 @@
   <img alt="GitHub watchers" src="https://img.shields.io/github/watchers/bereketsemagn/text-file-reader-api?style=social">
 
 ## Quick Overview
-<img alt="snapsaver" src="assets/gyazo.gif" width ="100">
+
 fileReaderAPI is a simple way for you to open any text files, simply. Follow the steps below to get started.
 
 - It's useful for Developers
 - Speeds up time by checking what's inside of your text file
+
+<img src="assets/screen.gif" width ="100">
 
 
 
