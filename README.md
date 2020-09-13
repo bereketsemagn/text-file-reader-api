@@ -14,7 +14,10 @@
   <img alt="GitHub followers" src="https://img.shields.io/github/followers/bereketsemagn?label=Follow&style=social">
   <img alt="GitHub forks" src="https://img.shields.io/github/forks/bereketsemagn/text-file-reader-api?style=social">
   <img alt="GitHub stars" src="https://img.shields.io/github/stars/bereketsemagn/text-file-reader-api?style=social">
-  <img alt="GitHub watchers" src="https://img.shields.io/github/watchers/bereketsemagn/text-file-reader-api?style=social">
+  <img alt="GitHub watchers" src="https://img.shields.io/github/watchers/bereketsemagn/text-file-reader-api?style=social"> <br>
+     
+
+<img src="assets/screen.gif">
 
 ## Quick Overview
 
@@ -23,7 +26,9 @@ fileReaderAPI is a simple way for you to open any text files, simply. Follow the
 - It's useful for Developers
 - Speeds up time by checking what's inside of your text file
 
-<img src="assets/screen.gif" width ="100">
+<br> 
+
+<img src="assets/screen.gif">
 
 
 
