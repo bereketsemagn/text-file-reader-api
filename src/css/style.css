@@ -13,16 +13,16 @@ body {
 }
  
 textarea {
-    margin-top: 250px;
+    margin-top: 125px;
     margin-left: 30px;
-    width: 70%;
+    width: 75%;
     height: -1000px;
     outline: none;
     font-family: 'Poppins';
 }
 
 input {
-    margin-left: 70px;
+    margin-left: 30px;
     font-family: 'Poppins';
     color: white;
     border-radius: 50px;
