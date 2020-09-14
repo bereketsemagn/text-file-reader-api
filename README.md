@@ -56,10 +56,6 @@ Clone this repo to your local machine using `https://github.com/bereketsemagn/te
 - 🔃 Create a new pull request using <a href="https://github.com/bereketsemagn/text-file-reader-api/pulls" target="_blank">`https://github.com/bereketsemagn/text-file-reader-api/pulls`</a>.
 
 ---
-
-## Team
-
-<a href="bereketsemagn.tk"><img src="https://avatars1.githubusercontent.com/u/68391329?s=460&u=edcfc3815dab595e7e3fe70224e427b01988578b&v=4" width ="200" height= "200"> </a>
       
 ## Support
 
